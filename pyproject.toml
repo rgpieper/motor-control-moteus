@@ -1,0 +1,10 @@
+[project]
+name = "motor-control-moteus"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "moteus>=0.3.97",
+    "moteus-pi3hat>=0.3.32",
+]
